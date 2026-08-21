@@ -20,6 +20,11 @@ g++ sudoku_solver.cpp -o sudoku_solver
 
 ## Sample Output
 Input Sudoku:
+
+The program takes a partially filled 9×9 Sudoku grid as input.  
+`0` represents an empty cell.
+
+```text
 5 3 0 0 7 0 0 0 0
 6 0 0 1 9 5 0 0 0
 0 9 8 0 0 0 0 6 0
